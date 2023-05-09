@@ -1,18 +1,37 @@
-#Hello, ![image](https://user-images.githubusercontent.com/116025786/237043531-1315b1d5-3bbf-40e8-8c84-254a22c713c3.png)I'm Helene
-###Baby Dev Fullstack Javascript
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Helene
+====================================================================================================================================
+
+Baby Dev Fullstack Javascript
+------------------------------------
+
 For me it's a new day, a new life, at nearly 50 years old I'm learning web development to follow the flow of the tecnology.
-I'm eager to learn.
 
-Currently I can work with ![image](https://user-images.githubusercontent.com/116025786/237045372-cf372a71-cccf-4fef-8a98-d89823d5e39b.png) ![image](https://user-images.githubusercontent.com/116025786/237045411-4022a0ef-98dd-4cfa-81e5-241e5b07fd4c.png) https://developer.mozilla.org/en-US/docs/Glossary/HTML5 ![image](https://user-images.githubusercontent.com/116025786/237045863-8a17eca4-918d-40fe-8de3-f4517c50edfc.png)
- ![image](https://user-images.githubusercontent.com/116025786/237045501-c643acb4-aec3-4c9e-bcb4-ce03cb714a2b.png) ![image](https://user-images.githubusercontent.com/116025786/237045593-6dff52eb-c08b-4233-ae38-a47065d774f8.png) ![image](https://user-images.githubusercontent.com/116025786/237045933-9d6c82d8-80ab-415d-baf8-c34d6aa389a1.png) ![image](https://user-images.githubusercontent.com/116025786/237045982-faf47748-d577-4dd4-bd3e-867aa8376a2d.png) 
+I'm eager to learn and open to work.
 
- And I'm on ![image](https://user-images.githubusercontent.com/116025786/237046389-b3b49ddc-59cf-4585-942d-d274ded48222.png) ![image](https://user-images.githubusercontent.com/116025786/237046565-52bae5a5-7238-4d14-a18d-c268b36685e0.png)
+### Currently I can work with 
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
+</p>
 
+### And I'm on !
 
+<p align="left"> <a href="https://www.github.com/HeleneRamet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/helene-ramet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+See you soon 🚀
 
+* 🌍  Paris
+* 📫 How to reach me [helene.ramet@gmail.com](mailto:helene.ramet@gmail.com)
 
-
-
-- 📫 How to reach me: helene.ramet@gmail.com
