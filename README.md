@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Baby Dev Fullstack Javascript
 ------------------------------------
 
-For me it's a new day, a new life, at nearly 50 years old I'm learning web development to follow the flow of the tecnology.
+For me it's a new day, a new life, at nearly 50 years old I'm learning web development to follow the flow of the technology.
 
 I'm eager to learn and open to work.
 
