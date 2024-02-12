@@ -24,7 +24,7 @@ I'm eager to learn and open to work.
 
 ### I'm learning
 
-PHP, Symfony
+Figma
 
 ### You can reach me :
 
