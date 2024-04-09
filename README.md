@@ -1,14 +1,18 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Helene
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Baby Dev Fullstack Javascript
+Développeuse web 
 ------------------------------------
 
-For me it's a new day, a new life, at nearly 50 years old I'm learning web development to follow the flow of the technology.
+J'ai suivi six mois de formation intensive à l'école O'Clock, 4 mois de fondamentaux (HTML, CSS et Javascript côté Front), 1 mois de spécialisation Back-end (Node.js, PostgreSQL) et 1 mois de projet en groupe.
 
-I'm eager to learn and open to work.
+J'ai obtenu mon titre professionnel RNCP "Développeur web et web mobile" en Juin 2023.
 
-### Currently I can work with 
+Comme je partais de zéro, la formation m'a permis d'avoir des bases, mais le vrai apprentissage commence maintenant.
+
+Je travaille à à renforcer les fondamentaux: HTML, CSS et Javascript. 
+
+Mais j'ai aussi besoin de me positionner sur le marché du travail, alors j'apprends également Figma et Next.js que nous avions utilisé dans le projet de fin de formation.
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,15 +24,11 @@ I'm eager to learn and open to work.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-### I'm learning
-
-Figma
-
-### You can reach me :
+### Je suis joignable ici :
 
 <p align="left"> <a href="https://www.github.com/HeleneRamet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/helene-ramet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-See you soon 🚀
+
 
 * 🌍  Paris
 * 📫 How to reach me [helene.ramet@gmail.com](mailto:helene.ramet@gmail.com)
