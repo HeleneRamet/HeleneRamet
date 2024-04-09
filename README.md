@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Développeuse web 
+Hélène, Développeuse web 
 ------------------------------------
 
 J'ai suivi six mois de formation intensive à l'école O'Clock, 4 mois de fondamentaux (HTML, CSS et Javascript côté Front), 1 mois de spécialisation Back-end (Node.js, PostgreSQL) et 1 mois de projet en groupe.
