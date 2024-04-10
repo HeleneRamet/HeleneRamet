@@ -31,5 +31,5 @@ Mais j'ai aussi besoin de me positionner sur le marché du travail, alors j'appr
 
 
 * 🌍  Paris
-* 📫 How to reach me [helene.ramet@gmail.com](mailto:helene.ramet@gmail.com)
+* 📫 [helene.ramet@gmail.com](mailto:helene.ramet@gmail.com)
 
